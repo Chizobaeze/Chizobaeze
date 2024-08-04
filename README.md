@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Chizoba Eze
+- 👋 Hi there, I’m Eze Chizoba Cynthia
 - 👀 A passionate data engineer from Nigeria.
 - 🌱 I’m currently work with Python,SQL,power BI,Excel
 - 💞️ I’m looking to collaborate on ...
