@@ -20,5 +20,5 @@ Programming: Proficient in languages such as Python to automate data workflows a
 
 Visualization: i used power BI and python
 
-Data warehousing: MYSQL,SQL Server and postgresql
+Data warehousing: MYSQL,SQL Server and postgresql,Linux(Bashscript)
 
