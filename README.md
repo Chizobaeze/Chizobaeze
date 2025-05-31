@@ -33,7 +33,7 @@ Let’s connect the dots — one data strand at a time! 🕷️💻
 </div>
 
 <div align="center">
-  <h3>🛠️ Tools Webs </h3>
+  <h3>🛠️ Tools Web </h3>
 
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
