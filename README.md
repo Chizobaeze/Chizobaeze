@@ -1,9 +1,9 @@
 - 👋 Hi there, I’m Eze Chizoba Cynthia
 - 👀 A passionate data engineer from Nigeria.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me via email chizobaeze15@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: God's Heir
+
 
 <div align="center">
   <h1>
