@@ -6,7 +6,7 @@
 - ⚡ Fun fact: ...
 
 <div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Chizoba Eze];This+is..;..my+Github..;" alt="Typing SVG"/>
-    </h1>
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&color=00FFCC&center=true&vCenter=true&width=500&lines=Hi+I'm+Chizoba+Eze;Welcome+to+my+creative+space+✨;Feel+free+to+explore+my+projects+💡" alt="Typing SVG" />
+  </h1>
 </div>
