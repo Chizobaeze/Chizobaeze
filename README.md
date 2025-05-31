@@ -7,7 +7,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&color=000000&center=true&vCenter=true&width=600&lines=Hi,+I'm+Chizoba+Eze;Data+Engineer+💻+|+Code,+Clean,+Load!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=000000&center=true&vCenter=true&width=600&lines=Hi,+I'm+Chizoba+Eze;Data+Engineer+💻+|+Code,+Clean,+Load!" alt="Typing SVG" />
   </h1>
 </div>
 
